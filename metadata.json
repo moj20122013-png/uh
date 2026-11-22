@@ -1,0 +1,6 @@
+{
+  "name": "إدارة مخزون قطع غيار السيارات",
+  "description": "تطبيق ويب عربي متجاوب لإدارة مخزون محل قطع غيار السيارات محليًا من الهاتف.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
